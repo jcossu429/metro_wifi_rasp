@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">metro_wifi_rasp</string>
+    <string name="btnUp">Metro Up</string>
+    <string name="btnDown">Metro Down</string>
+    <string name="ipAddress">192.168.0.212:21567</string>
+    <string name="metro">Metro App Raspberry IP Address</string>
+</resources>
